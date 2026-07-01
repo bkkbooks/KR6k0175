@@ -1,0 +1,42 @@
+canonical_identifier: bkk:krp/KR6k0175/v1
+canonical_location: https://kanripo.org/bkk/KR6k0175/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 四分律拾毗尼義鈔科
+  identifiers:
+    alt_id:
+    - X44n0746
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X44/X44n0746.xml
+    old_id: X44n0746
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6k0175_000.yaml, hash: 'sha256:bfe077ffdbad18c5fafe862b4d5c1370f077f4f33496b811d595d59e6fddb959'}
+  - {seq: 1, filename: KR6k0175_001.yaml, hash: 'sha256:ad3c96f0b8ce25f6a30b2623b24834d78b7ac419b72cd6a8ceeef93e8351306f'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6k0175_001.markers.yaml, hash: 'sha256:ae8c988edf455a4b2ab3002998164b3182e84c522b9890da0e8c0154e2ee8452'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6k0175_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 11273
+  label: 拾毗尼義鈔科文
+  type: juan
+  level: 1
+hash: sha256:7c5f545ab01200a02d20109e8d6927452a2c07757469241c4e283a4437aec18b
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

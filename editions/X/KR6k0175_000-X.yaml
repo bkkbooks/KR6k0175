@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6k0175/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 四分律拾毗尼義鈔科
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X44/X44n0746.xml
+    old_id: X44n0746
+hash: sha256:bfe077ffdbad18c5fafe862b4d5c1370f077f4f33496b811d595d59e6fddb959
