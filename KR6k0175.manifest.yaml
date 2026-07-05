@@ -22,9 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6k0175_000.yaml, hash: 'sha256:bfe077ffdbad18c5fafe862b4d5c1370f077f4f33496b811d595d59e6fddb959'}
-  - {seq: 1, filename: KR6k0175_001.yaml, hash: 'sha256:ad3c96f0b8ce25f6a30b2623b24834d78b7ac419b72cd6a8ceeef93e8351306f'}
+  - {seq: 1, filename: KR6k0175_001.yaml, hash: 'sha256:4062b59187bc815698833002618d2348e6af6da0048e2015f74e01a76867e183'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6k0175_001.markers.yaml, hash: 'sha256:ae8c988edf455a4b2ab3002998164b3182e84c522b9890da0e8c0154e2ee8452'}
+  - {seq: 0, role: markers, filename: assets/KR6k0175_000.markers.yaml, hash: 'sha256:a92ada0757c54ce191197dfa53329dd0a13bc361a2eca783a80c756639dbe096'}
+  - {seq: 1, role: markers, filename: assets/KR6k0175_001.markers.yaml, hash: 'sha256:b5d9138736b1e8f0b3ecc0fc3d0660304a7b07aa6a98b23b479ec05d0c19baad'}
 table_of_contents:
 - ref:
     seq: 1
@@ -36,7 +37,4 @@ table_of_contents:
   label: 拾毗尼義鈔科文
   type: juan
   level: 1
-hash: sha256:7c5f545ab01200a02d20109e8d6927452a2c07757469241c4e283a4437aec18b
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:ac939464acd67c0469bbb66e645515beebf99a9ad6e4f72881436c503922b569
