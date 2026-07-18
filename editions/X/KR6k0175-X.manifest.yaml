@@ -23,7 +23,7 @@ assets:
   - {seq: 1, filename: KR6k0175_001-X.yaml, hash: 'sha256:4062b59187bc815698833002618d2348e6af6da0048e2015f74e01a76867e183'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6k0175_000-X.markers.yaml, hash: 'sha256:b69ff6781ee5708c13fba9f4adb34ab62906c8dccfe9bedabe0006598926486c'}
-  - {seq: 1, role: markers, filename: assets/KR6k0175_001-X.markers.yaml, hash: 'sha256:8eb6bb7daeed2487d8798f62c7b143321e74dfff73e5f36aebbf413bac1db55e'}
+  - {seq: 1, role: markers, filename: assets/KR6k0175_001-X.markers.yaml, hash: 'sha256:cc3b1b8a48a0292f21e7c4fae3ac882b3e9234189a6f393b1c7895c71a9e950f'}
 table_of_contents:
 - ref:
     seq: 1
@@ -35,4 +35,4 @@ table_of_contents:
   label: 拾毗尼義鈔科文
   type: juan
   level: 1
-hash: sha256:4a8248bca452cdf3a03f84679bf4dd730d4a1fe5a818eb7003b5988cf84109c9
+hash: sha256:da6864f9cf25477513c4e992e6de2a65c9918a449767cf95e74e62611c74a0b1

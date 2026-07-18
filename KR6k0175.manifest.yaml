@@ -25,7 +25,7 @@ assets:
   - {seq: 1, filename: KR6k0175_001.yaml, hash: 'sha256:c16954a0feccbb394b01ceffec55ecee84882d4e2aeeccd976a9b7917fe3c75d'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6k0175_000.markers.yaml, hash: 'sha256:a92ada0757c54ce191197dfa53329dd0a13bc361a2eca783a80c756639dbe096'}
-  - {seq: 1, role: markers, filename: assets/KR6k0175_001.markers.yaml, hash: 'sha256:ce2e336ecd44e955c1741d9a7821a3bb576455e10993bbf05bc0a5d6660925e4'}
+  - {seq: 1, role: markers, filename: assets/KR6k0175_001.markers.yaml, hash: 'sha256:0fd316740d71339d435f3f879b83f719883da26eab513f100da43a8d1b7290f1'}
 table_of_contents:
 - ref:
     seq: 1
@@ -37,7 +37,7 @@ table_of_contents:
   label: 拾毗尼義鈔科文
   type: juan
   level: 1
-hash: sha256:5027595a6e980247efddad3995defbf1011a08f418c61b4711399b67fd8f277c
+hash: sha256:fc89ab224447b2e2da3175cf19c1d62d352740e17af8c04508a6ee416a75365a
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
